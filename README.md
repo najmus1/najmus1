@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Ayush Parikh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hey there, I'm Mohd Rafey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&weight=600&size=25&pause=1000&color=FFC8DD&center=true&random=false&width=435&lines=Computer+Science+Engineer;Full+Stack+Web+Developer;Programmer)](https://git.io/typing-svg)
 
