@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Engineer;Programmer;Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" src="https://github.com/mohdrafey1/mohdrafey1/blob/main/coding-freak%20(1).gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/ayushparikh-code/ayushparikh-code/blob/main/coding-freak%20(1).gif">
 
 ## 🙋‍♂️
 - 💻 I’m currently working on something cool :wink: ;
