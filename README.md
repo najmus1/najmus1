@@ -103,13 +103,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ayushparikh-code}/count.svg" /></p> 
 <br></div>
 
-
-<p align="center">
-<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
-</p>
-<br>
-
-
 <hr>
 <p align="center">
   <i>Ask me anything I'am Happy to Help! </i>
@@ -119,7 +112,3 @@
 <a target="_blank" href="https://twitter.com/ayushparikh5"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
 </p>
-
-
-
-<h3 align="right">👋 Have the Best Day you can 🌈</h3>
