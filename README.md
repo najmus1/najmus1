@@ -14,7 +14,7 @@
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
 
 <br>
-
+<br>
 
 ## 🚀 Languages and Tools:
 <p align="centre">
