@@ -65,13 +65,13 @@
 <div align="center">
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohdrafey1&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Ayushparikh-code&column=7"/>
   </a>
 </div>
 
 ---
 <!---
-[![Mohd Rafey's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohdrafey1&theme=dracula&area=true)](https://github.com/mohdrafey1)
+[![Ayush Parikh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayushparikh-code&theme=dracula&area=true)](https://github.com/Ayushparikh-code)
 <br>
 
 
@@ -80,11 +80,19 @@
 
 <br><details> <summary align="center"> </samp></summary>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/mohdrafey1/mohdrafey1/main/me.gif" width=400 height=340>
-  <img src="https://raw.githubusercontent.com/mohdrafey1/mohdrafey1/main/new.gif" height=340/>
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
 </p></details>
  
 
+
+ 
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ayush-Parikh Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZEVXbLZ52XmnySJg)</div><br>
+<div align="center">
+-->
+
+<div align="center">
   
 ## Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
@@ -111,6 +119,7 @@
 <a target="_blank" href="https://twitter.com/ayushparikh5"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
 </p>
+
 
 
 <h3 align="right">👋 Have the Best Day you can 🌈</h3>
