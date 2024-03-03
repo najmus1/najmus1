@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Engineer;Programmer;Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/mohdrafey1/mohdrafey1/blob/main/coding-freak%20(1).gif">
 
 ## 🙋‍♂️
 - 💻 I’m currently working on something cool :wink: ;
@@ -18,9 +18,9 @@
 
 ## 📊 My Github Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayushparikh-code&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushparikh-code&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushparikh-code&theme=tokyonight" align="center" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohdrafey1&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdrafey1&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdrafey1&theme=tokyonight" align="center" />
 </p>
 
 <details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
@@ -30,13 +30,13 @@
 <div align="center">
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ayushparikh-code&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=mohdrafey1&column=7"/>
   </a>
 </div>
 
 ---
 <!---
-[![Ayush Parikh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayushparikh-code&theme=dracula&area=true)](https://github.com/Ayushparikh-code)
+[![Ayush Parikh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohdrafey1&theme=dracula&area=true)](https://github.com/mohdrafey1)
 <br>
 
 
