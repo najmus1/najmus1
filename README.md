@@ -7,7 +7,6 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/ayushparikh-code/ayushparikh-code/blob/main/coding-freak%20(1).gif">
 
 
-
 ## 🙋‍♂️
 - 💻 I’m currently working on something cool :wink: ;
 
