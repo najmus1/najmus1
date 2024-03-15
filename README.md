@@ -53,7 +53,7 @@
 ## 📊 My Github Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohdrafey1&show_icons=true&theme=tokyonight" />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mohdrafey1&theme=dark&card_width=400)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohdrafey1&theme=dark&card_width=400" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdrafey1&theme=tokyonight" align="center" />
 </p>
 
